@@ -1,0 +1,144 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+h1 {
+    margin: 50px auto 0px auto;
+    font-family: 'Satisfy', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 2.2rem;
+    color: #66BFBF;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bio {
+    font-size: 1.5rem;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: #222b29;
+    
+}
+
+.top-container {
+    background-color: #d8eff1;
+    position: relative;
+    padding: 100px;
+}
+
+.cloud-bottom {
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+}
+
+.cloud-top {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+   
+}
+
+span {
+    text-decoration: underline;
+}
+
+.middle-container {
+    margin-top: 60px;
+}
+
+
+.computer {
+    border-radius: 50%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-button {
+    border-radius: 8px;
+    background-image: linear-gradient(#11cdd4, #11999e);
+    margin-bottom: 50px;
+    border-style: none;
+    padding: 8px 15px;
+    color: white;
+}
+
+.contact-button:hover {
+    background-image: linear-gradient(#30e3cb, #2bc4ad);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
+
+.bottom-contianer {
+    background-color: #66BFBF;
+    padding: 30px 25px 25px 25px;
+    
+}
+
+.footer-link {
+    color: #11999E;
+    margin-right: 20px;
+    
+}
+
+.copyright {
+    color: #EAF6F6;
+    margin-top: 15px;
+    font-size: 0.75rem;
+}
+
+hr {
+    border: 6px solid #EAF6F6;
+    background-color: none;
+    border-style: dotted none none none;
+    width: 5%;
+    margin: 100px auto;
+}
+
+.contact-msg {  
+    width: 40%;
+    margin: 40px auto
+}
+
+
+a:hover {
+    color: white;
+}
